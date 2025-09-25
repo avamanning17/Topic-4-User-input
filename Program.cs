@@ -20,7 +20,8 @@
             Console.WriteLine("The price is " + price.ToString("C"));
             Console.WriteLine();
 
-            //Console.WriteLine(price = (3.00 / 20%));
+
+
         }
     }
 }
