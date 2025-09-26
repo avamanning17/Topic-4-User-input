@@ -28,8 +28,8 @@
             Console.WriteLine("The price is " + price.ToString("C"));
             Console.WriteLine();
 
-            string topping, name;
-            Double price, total, diameter, radius;
+            string topping;
+            Double total, diameter, radius;
 
             //Console.WriteLine("What is your favorite pizza topping?");
             topping = Console.ReadLine();
